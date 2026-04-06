@@ -1,0 +1,11 @@
+# ignore everything in realdata folders
+realdata/
+# ignore everything in inventories folders
+inventories/
+# ignore everything in the papers folder
+literature/
+# ignore any temporary plots file
+Rplots.pdf
+# ignoring Binary files created by R
+.RData
+.Rhistory
