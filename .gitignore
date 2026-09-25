@@ -1,11 +1,16 @@
 # ignore everything in realdata folders
 realdata/
+simdata/
 # ignore everything in inventories folders
 inventories/
 # ignore everything in the papers folder
 literature/
+# ignore analysisout plots
+analysisout/
 # ignore any temporary plots file
 Rplots.pdf
 # ignoring Binary files created by R
 .RData
 .Rhistory
+.DS_Store
+.Rapp.history
